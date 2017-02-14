@@ -13,14 +13,12 @@ We have 32 and 64-bit ELF files
 → file skipper-64
 skipper-64: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=39f82b8f626894e67276729dc655041eb7f16eb4, stripped
 ```
-Open it
 ```
 $ ./skipper-64
 Computer name: bad
 Sorry, your computer's name - bad - is not correct!
 Killed
 ```
-Ok, it checks for username.
 Open it in radare2
 ```
 $ r2 ./skipper-64 -A
