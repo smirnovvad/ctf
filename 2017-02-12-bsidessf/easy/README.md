@@ -1,4 +1,4 @@
-#Easy
+#Easy / 10 points
 ```
 This one is easy.
 

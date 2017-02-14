@@ -4,7 +4,7 @@ Team: UKINT
 
 ### Table of contents
 
-* [easyauth (web)](easyauth)
-* [Zumbo 1 (web)](zumbo1)
-* [easy (re)](easy)
-* [skipper (re)](skipper)
+* [easyauth / 30p (web)](easyauth)
+* [Zumbo 1 / 20p (web)](zumbo1)
+* [easy / 10p (re)](easy)
+* [skipper / 75p (re)](skipper)

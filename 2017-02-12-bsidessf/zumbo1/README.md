@@ -1,4 +1,4 @@
-#Zumbo 1
+#Zumbo 1 / 20 points
 ```
 Welcome to ZUMBOCOM....you can do anything at ZUMBOCOM.
 

@@ -1,4 +1,4 @@
-#Skipper
+#Skipper / RE 75
 ```
 The given binary will give you the password... if you meet its criteria!
 
@@ -28,7 +28,7 @@ $ r2 ./skipper-64 -A
 [0x004009d0]> s main
 [0x004026d1]> VV
 ```
-And we can see graphs, that checks for username, OS version and CPU:
+And we can see graphs, that check for username, OS version and CPU:
 ![1](./1.jpg)
 I changed je instructions to jmp
 ```
