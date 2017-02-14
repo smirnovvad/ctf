@@ -9,9 +9,9 @@ http://easyauth-afee0e67.ctf.bsidessf.net
 
 
 We have auth page with user and password form
-![1](./1.png)
+![1](./1.jpg)
 If we login as guest/guest this will display our cookies:
-![2](./2.png)
+![2](./2.jpg)
 and if I click to link, then we can see what I don't have admin rights
 
 In the [easyauth.php](./easyauth.php) there is a check for administrator username:
@@ -26,7 +26,7 @@ if($username == 'administrator') {
 ```
 The solution is simple, just change cookie value 'guest' to 'administrator'.
 I use Tamper Data in firefox to change request
-![3](./3.png)
+![3](./3.jpg)
 ```
 Welcome back, administrator!
 
